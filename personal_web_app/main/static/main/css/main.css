@@ -1,0 +1,14 @@
+body{
+    background: #181818;
+    color: #757f9a;
+}
+
+.center_block{
+    margin: auto;
+    margin-top: 3%;
+    width: 95%;
+    height: 500px;
+    background-color: #282828;
+    border-radius: 10px;
+    box-shadow: 0 0 25px #757f9a;
+}
